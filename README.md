@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akash-byte01/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/akash-byte01/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akash-byte01/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akash-byte01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akash-byte01/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/akash-byte01/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akash-byte01/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akash-byte01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/akash-byte01/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/akash-byte01/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
