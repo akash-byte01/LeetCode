@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/akash-byte01/LeetCode/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/akash-byte01/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/akash-byte01/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akash-byte01/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akash-byte01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
