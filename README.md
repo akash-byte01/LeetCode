@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akash-byte01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akash-byte01/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/akash-byte01/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-byte01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -75,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash-byte01/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akash-byte01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
