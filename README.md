@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/akash-byte01/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akash-byte01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akash-byte01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akash-byte01/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
