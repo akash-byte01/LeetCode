@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akash-byte01/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-byte01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/akash-byte01/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akash-byte01/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash-byte01/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-byte01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/akash-byte01/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
 | ------- |
