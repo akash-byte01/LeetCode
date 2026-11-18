@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/akash-byte01/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/akash-byte01/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/akash-byte01/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/akash-byte01/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/akash-byte01/LeetCode/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/akash-byte01/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
