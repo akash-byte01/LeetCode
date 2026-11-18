@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akash-byte01/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/akash-byte01/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/akash-byte01/LeetCode/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/akash-byte01/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/akash-byte01/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akash-byte01/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/akash-byte01/LeetCode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
