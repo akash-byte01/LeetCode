@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/akash-byte01/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/akash-byte01/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/akash-byte01/LeetCode/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/akash-byte01/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/akash-byte01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/akash-byte01/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0905-sort-array-by-parity](https://github.com/akash-byte01/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akash-byte01/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/akash-byte01/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/akash-byte01/LeetCode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/akash-byte01/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
